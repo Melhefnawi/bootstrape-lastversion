@@ -4,7 +4,23 @@
 /*----------------------------------color*/
 
 .bg-color-header{
-    background-color: blueviolet;
+    background-color: #4e5353;
+}
+
+.bg-color-home{
+    background-color: #e6a314;
+}
+
+.bg-color-resume{
+    background-color: #884ad8;
+}
+
+.bg-color-contact{
+    background-color: #15c6cc;
+}
+
+.bg-color-download{
+    background-color: rgba(39, 44, 44, 0.596);
 }
 
 
@@ -22,16 +38,31 @@
     font-family: "Roboto" , sans-serif;
     font-weight: 300;
     color:#fafafa;
-    padding-top: 10px;
+    padding-top: 50px;
     padding-bottom: 10px;
     padding-left: 45px;
+    font-size: 45px;
 }
 
 .title{
     font-family: "Exo" , sans-serif;
-    font-weight: 300;
+    font-weight: 100;
     color:#fafafa;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 60px;
     padding-left: 45px;
+    font-size: 23px;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menuitem{
+    font-size: 0;
+}
+
+#nav li{
+    font-size: 14px;
+    padding:0;
 }
