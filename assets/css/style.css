@@ -23,8 +23,35 @@
     background-color: rgba(39, 44, 44, 0.596);
 }
 
+.bg-color-footer{
+    background-color: #4e5353;
+
+}
+
+/*----------------------------------general-use*/
+
+header, body{
+    margin: 0;
+}
+
+.general-use{
+    font-family: "Exo", sans-serif;
+    font-size: 14px;
+    color: #fafafa;
+    font-weight: 300;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
 
 /*----------------------------------header*/
+
+.heading{
+    margin-left: -15px;
+    margin-right: -15px;
+    
+}
 
 .logo{
     background: url(../images/rosie.jpg);
@@ -113,5 +140,12 @@
 
 .hvr-sweep-to-bottom:before {
     background-color: rgba(0,0,0,0.2);
-    transform-origin: 100% 0;
+    height: 120px;
+}
+
+/*----------------------------------Footer*/
+
+.footer-style{
+    height: 120px;
+    padding-top: 15px;
 }
