@@ -149,3 +149,14 @@ header, body{
     height: 120px;
     padding-top: 15px;
 }
+
+.social-contact a i{
+    width:23px;
+    height: 23px;
+    border-radius: 23px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 5px;
+    margin-right: 3px;
+    color: #4e5353;
+}
