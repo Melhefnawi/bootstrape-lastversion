@@ -151,12 +151,13 @@ header, body{
 }
 
 .social-contact a i{
-    width:23px;
-    height: 23px;
-    border-radius: 23px;
+    width:32px;
+    height: 32px;
+    border-radius: 32px;
     background-color: aqua;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 7px;
     margin-right: 3px;
     color: #4e5353;
+    font-size: 20px;
 }
