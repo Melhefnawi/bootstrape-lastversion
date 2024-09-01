@@ -178,3 +178,14 @@ header, body{
     color: #4e5353;
     font-size: 20px;
 }
+
+/*----------------------------------Three reason */
+
+.three-reason-icon{
+    font-size: 26px;
+    color:#e6a314;
+}
+
+.three-reason-heading{
+    margin-bottom: 15px;
+}
