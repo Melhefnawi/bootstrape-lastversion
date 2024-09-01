@@ -28,6 +28,10 @@
 
 }
 
+.bg-color-three-reason{
+    background-color: #fff;
+}
+
 /*----------------------------------general-use*/
 
 header, body{
@@ -43,6 +47,19 @@ header, body{
 
 .uppercase{
     text-transform: uppercase;
+}
+
+.section-column{
+    display:table-cell;
+    padding: 0px 30px 30px;
+    float:none;
+}
+
+.section-heading{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
 }
 
 /*----------------------------------header*/
@@ -146,7 +163,7 @@ header, body{
 /*----------------------------------Footer*/
 
 .footer-style{
-    height: 120px;
+    height: 230px;
     padding-top: 15px;
 }
 
